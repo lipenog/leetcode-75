@@ -15,3 +15,7 @@ Note:
 
     The input will be generated such that the operation is always possible.
     It can be shown that the resulting string will always be unique.
+<div style="display: flex;">
+    <img src="image.png" alt="result" title="result" />
+    <img src="result.png" alt="result" title="result" />
+</div>
